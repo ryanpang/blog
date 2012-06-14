@@ -1,3 +1,3 @@
 /* import */
-@import url(http://fonts.googleapis.com/css?family=Maven+Pro:700,500,400);
+@import url(http://fonts.googleapis.com/css?family=Maven+Pro:700,400);
 body{font-family:"Maven Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}
