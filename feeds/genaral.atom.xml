@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CURIOUS</title><link href="http://curious.com.my/" rel="alternate"></link><link href="http://curious.com.my/feeds/genaral.atom.xml" rel="self"></link><id>http://curious.com.my/</id><updated>2012-06-11T18:53:36+08:00</updated><entry><title>Using Markdown</title><link href="http://curious.com.my/using-markdown.html" rel="alternate"></link><updated>2012-06-11T18:53:36+08:00</updated><author><name>Ryan Pang</name></author><id>tag:curious.com.my,2012-06-11:using-markdown.html</id><summary type="html">&lt;h1&gt;This is First Level&lt;/h1&gt;
-&lt;h2&gt;And this is second&lt;/h2&gt;
-&lt;h4&gt;Header 4&lt;/h4&gt;
-
-&lt;p&gt;try using markdown to write on this.&lt;/p&gt;</summary><category term="general"></category></entry></feed>

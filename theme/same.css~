@@ -1,5 +1,0 @@
-/* import */
-@import url(http://fonts.googleapis.com/css?family=Maven+Pro:700,400);
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:300,300italic);
-p{font-family:Ubuntu,"Helvetica Neue",Helvetica,Arial,sans-serif;}
-body{font-family:"Maven Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}
