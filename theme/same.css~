@@ -4,4 +4,4 @@
 @import url(http://fonts.googleapis.com/css?family=Oxygen);
 p{font-family:Oxygen,"Helvetica Neue",Helvetica,Arial,sans-serif;}
 body{font-family:"Maven Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}
-.main-header hgroup .picture a{background: #000000 url('/static/imgs/rp-s.png');}
+.main-header hgroup .picture a{background: #000000 url('/static/imgs/octocat-large.jpg');}
