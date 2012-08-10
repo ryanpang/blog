@@ -1,8 +1,8 @@
 /* import */
-@import url(http://fonts.googleapis.com/css?family=Maven+Pro:700,400|Questrial);
+@import url(http://fonts.googleapis.com/css?family=Maven+Pro:700,400|Questrial|Oxygen);
 /*@import url(http://fonts.googleapis.com/css?family=Ubuntu:300,300italic);*/
 @import url(http://fonts.googleapis.com/css?family=Oxygen);
-p{font-family:Questrial,Oxygen,"Helvetica Neue",Helvetica,Arial,sans-serif; color: #444;}
+p{font-family:Oxygen,"Helvetica Neue",Helvetica,Arial,sans-serif; color: #444; font-size: 1.1em;}
 body{font-family:"Maven Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}
 .main-header hgroup .picture a{background: #000000 url('/theme/imgs/octocat-small.png');}
 .main-section h3.date {border-top: none; border-bottom: none; font-size: 14px; font-weight: normal; padding-bottom: 0px;}
