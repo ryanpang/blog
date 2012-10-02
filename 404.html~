@@ -1,3 +1,102 @@
-<h2>404</h2>
+<!DOCTYPE html>
+<html lang="en">
 
-<p>No page's found</p>
+<head>
+  <meta charset="utf-8" />
+  <meta name="description" content="Ryan Pang's personal blog." />
+  <meta name="keywords" content="Ryan Pang" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CURIOUS</title>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+  <!--link rel="stylesheet" href=".//css/styles.min.css" type="text/css" media="screen, projection"-->
+    
+    <link href="./theme/css/styles.min.css" rel="stylesheet">
+    <link href="./theme/same.css" rel="stylesheet">
+
+</head>
+
+<body>
+<header class="main-header">
+  <hgroup>
+    <div class="picture">
+      <a href="/" rel="home"></a>
+    </div>
+    <h1>CURIOUS</h1>
+    <h2>Ryan's personal blog.</h2>
+  </hgroup>
+  <nav>
+    <ul class="main-nav">
+      <li><a href="/" id="home-link">Home</a></li>
+
+        
+            <li><a href="./pages/about.html">About</a></li>
+        
+        
+      <!--li><a href="http://twitter.com/#!/ryanpangcy" id="twitter-link">Twitter</a></li>
+      <li><a href="http://github.com/yymoto2" id="github-link">Github</a></li>
+			<li><a href="http://feeds.feedburner.com/ryanpang" id="github-link">Feed</a></li>
+      <li><a href="mailto:yymoto2@gmail.com?subject=Hello" id="contact-link">Contact</a></li-->
+    </ul>
+  </nav>
+  <!--a href="http://pelican.notmyidea.org" class="fork-me">Powered by Pelican.</a-->
+
+</header>
+
+<section class="main-section blog-section" id="blog-posts">
+  
+  <h3 class="date">02 Oct 2012</h3>
+    <article>
+	<hgroup>
+	<h2><a href="2012/10/using-markdown.html" title="Permalink to Using Markdown">Using Markdown</a></h2>
+	
+	</hgroup>
+	<h1>This is First Level</h1>
+<h2>And this is second</h2>
+<h4>Header 4</h4>
+
+<p>try using markdown to write on this.</p>
+	</article>
+
+  <h3 class="date">06 Jun 2012</h3>
+    <article>
+	<hgroup>
+	<h2><a href="2012/06/the-first-one.html" title="Permalink to The First One">The First One</a></h2>
+	
+	</hgroup>
+	<div class="section" id="introduction">
+<h2>Introduction</h2>
+<p>Hi! This is my first post.
+And this is a link to a <a class="reference external" href="http://curious.com.my">page</a></p>
+</div>
+
+	</article>
+
+
+
+
+</section>
+
+<div class="mobile-nav">
+  <span class="nav-btn" id="mobile-nav-btn">
+    <span class="nav-btn-bar"></span>
+    <span class="nav-btn-bar"></span>
+    <span class="nav-btn-bar"></span>
+  </span>
+  <!--h3><a href="/">yymoto2.github.com</a></h3-->
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+var twitter_integration_enabled = false,
+    github_integration_enabled = false,
+    dribbble_integration_enabled = false,
+    instagram_integration_enabled = false;
+/*]]>*/
+</script>
+
+<script src="./js/min/scripts.min.js"></script>
+
+
+</body>
