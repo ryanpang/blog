@@ -6,7 +6,9 @@ p{font-family:Questrial,"Helvetica Neue",Helvetica,Arial,sans-serif; color: #444
 body{font-family:"Maven Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}
 .main-header hgroup .picture {text-align: center;}
 .main-header hgroup .picture a{background: #000000 url('/theme/imgs/octocat-small.png'); border: 1px solid #333366; box-shadow: 0 1px 1px #f9f9f9, 0 0 2px #ooo inset; height: 120px; width: 120px;}
+.main-header hgroup {margin-left: 15px}
+.main-header hgroup h1 {margin-top: 20px}
 .main-section h3.date {border-top: none; border-bottom: none; font-size: 14px; font-weight: normal; padding-bottom: 0px;}
 .blog-section hgroup h2, .blog-section hgroup h1 {margin-top: 1px;}
 .blog-section article {border-bottom: 1px dotted #aaa}
-
+.content-title {margin-bottom: 20px}

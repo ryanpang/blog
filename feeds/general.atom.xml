@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CURIOUS</title><link href="http://curious.com.my/" rel="alternate"></link><link href="http://curious.com.my/feeds/general.atom.xml" rel="self"></link><id>http://curious.com.my/</id><updated>2012-10-02T21:42:00+08:00</updated><entry><title>Using Markdown</title><link href="http://curious.com.my/2012/10/using-markdown.html" rel="alternate"></link><updated>2012-10-02T21:42:00+08:00</updated><author><name>Ryan Pang</name></author><id>tag:curious.com.my,2012-10-02:2012/10/using-markdown.html</id><summary type="html">&lt;h1&gt;This is First Level&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CURIOUS</title><link href="http://curious.com.my/" rel="alternate"></link><link href="http://curious.com.my/feeds/general.atom.xml" rel="self"></link><id>http://curious.com.my/</id><updated>2013-02-14T13:06:44+08:00</updated><entry><title>Using Markdown</title><link href="http://curious.com.my/2013/02/using-markdown.html" rel="alternate"></link><updated>2013-02-14T13:06:44+08:00</updated><author><name>Ryan Pang</name></author><id>tag:curious.com.my,2013-02-14:2013/02/using-markdown.html</id><summary type="html">&lt;h1&gt;This is First Level&lt;/h1&gt;
 &lt;h2&gt;And this is second&lt;/h2&gt;
 &lt;h4&gt;Header 4&lt;/h4&gt;
 
-&lt;p&gt;try using markdown to write on this.&lt;/p&gt;</summary></entry><entry><title>The First One</title><link href="http://curious.com.my/2012/06/the-first-one.html" rel="alternate"></link><updated>2012-06-06T00:00:00+08:00</updated><author><name>Ryan Pang</name></author><id>tag:curious.com.my,2012-06-06:2012/06/the-first-one.html</id><summary type="html">&lt;div class="section" id="introduction"&gt;
+&lt;p&gt;try using markdown to write on this.&lt;/p&gt;</summary><category term="test"></category></entry><entry><title>The First One</title><link href="http://curious.com.my/2012/06/the-first-one.html" rel="alternate"></link><updated>2012-06-06T00:00:00+08:00</updated><author><name>Ryan Pang</name></author><id>tag:curious.com.my,2012-06-06:2012/06/the-first-one.html</id><summary type="html">&lt;div class="section" id="introduction"&gt;
 &lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Hi! This is my first post.
 And this is a link to a &lt;a class="reference external" href="http://curious.com.my"&gt;page&lt;/a&gt;&lt;/p&gt;
