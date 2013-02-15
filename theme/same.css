@@ -16,5 +16,5 @@ body{font-family:"Maven Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}
 .blog-section article {border-bottom: 1px dotted #aaa}
 .content-title {margin-bottom: 20px}
 .tags-section ul {list-style: none}
-.tags-section ul li a {border: 1px solid #c2c2c2; background: #e9e9e9; padding: 1px 8px; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px}
+.tags-section ul li a {border: 1px solid #c2c2c2; background: #e9e9e9; padding: 1px 8px}
 li br {margin-bottom: 5px}
