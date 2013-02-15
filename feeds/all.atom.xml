@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CURIOUS</title><link href="http://curious.com.my/" rel="alternate"></link><link href="http://curious.com.my/feeds/all.atom.xml" rel="self"></link><id>http://curious.com.my/</id><updated>2013-02-16T00:49:12+08:00</updated><entry><title>Third</title><link href="http://curious.com.my/2013/02/third.html" rel="alternate"></link><updated>2013-02-16T00:49:12+08:00</updated><author><name>Ryan Pang</name></author><id>tag:curious.com.my,2013-02-16:2013/02/third.html</id><summary type="html">&lt;p&gt;what is this gonna look like?&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CURIOUS</title><link href="http://curious.com.my/" rel="alternate"></link><link href="http://curious.com.my/feeds/all.atom.xml" rel="self"></link><id>http://curious.com.my/</id><updated>2013-02-16T00:55:33+08:00</updated><entry><title>Third</title><link href="http://curious.com.my/2013/02/third.html" rel="alternate"></link><updated>2013-02-16T00:55:33+08:00</updated><author><name>Ryan Pang</name></author><id>tag:curious.com.my,2013-02-16:2013/02/third.html</id><summary type="html">&lt;p&gt;what is this gonna look like?&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;&lt;em&gt;wohoo&lt;/em&gt;&lt;/th&gt;
-&lt;th&gt;&lt;em&gt;yea&lt;/em&gt;&lt;/th&gt;
+&lt;th&gt;wohoo&lt;/th&gt;
+&lt;th&gt;yea&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
