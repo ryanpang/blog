@@ -12,17 +12,17 @@ body{font-family:"Maven Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}
 .main-header {border-bottom: 1px solid #bbb}
 .main-header hgroup {float: left}
 body {margin: 0 auto; width: 740px}
-.main-header hgroup h1 {margin: 10px 20px}
+.main-header hgroup h1 {margin: 5px 10px}
 .main-header hgroup h1 #home-link {border-bottom: none}
 .main-header hgroup h2 {margin: 0 5px; text-align: center}
-.main-header nav {margin: 6px; float: right; height: 10px}
+.main-header nav {margin: 0 6px; float: right; height: 0px}
 .main-header nav ul, .main-header nav a, .main-header nav a:hover {border: none}
 .main-header nav a {padding: 15px 5px;}
 .main-header nav a:hover {background: none; color: #404040; text-decoration: underline}
 
 .main-header nav li {display: inline-block}
 .main-section {display: inline-block; margin: 0 auto}
-.main-section h3.date {border-top: none; border-bottom: none; font-size: 14px; font-weight: normal; padding-bottom: 0px;}
+.main-section h3.date {border-top: none; border-bottom: none; font-size: 14px; font-weight: normal; padding: 10px 0 0 55px;}
 .blog-section hgroup h2, .blog-section hgroup h1 {margin-top: 1px;}
 .blog-section article {border-bottom: 1px dotted #aaa; width: 680px}
 .content-title {margin-bottom: 20px}
